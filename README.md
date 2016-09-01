@@ -1,11 +1,3 @@
-# Evangelism Resources
+This is a collection of resources used for tech evangelism.
 
-* ## Upcoming Events
-
-* ## Open CFPs 
-
-* ## Other Opportunities 
-
-* ## Recent Wins
-
-* ## Stats
+If sharing, please credit the original creators of the resources included in this directory. 
