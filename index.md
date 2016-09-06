@@ -16,8 +16,8 @@
  * [Write for the Gilt Tech blog](http://tech.gilt.com)
  
 * ## Make Yourself Look Good
- * [Speaker Prep Guide](http://github.com/johncoghlan/evangelism/speakerprep.md)
- * [Writer Prep Guide](http://github.com/johncoghlan/evangelism/writerprep.md)
+ * [Speaker Prep Guide](http://github.com/johncoghlan/evangelism/blob/master/speakerprep.md)
+ * [Writer Prep Guide](http://github.com/johncoghlan/evangelism/blob/master/writerprep.md)
 
 * ## Recent Wins
  * Jason Tam judged NYC’s first AI Hackathon at General Assembly. 160 AI hackers attended and the winning teams walked away with some Gilt swag as prizes.
