@@ -10,7 +10,9 @@
   * [call to speakers](https://calltospeakers.com/)
   * [The CFP Report](https://thecfpreport.com/)
 
-* ## Other Opportunities
+* ## Opportunities with HBC
+ * [Speak at the HBC Digital Technology meetup](mailto:john_coghlan@s5a.com)
+ * [Speak at the New York Scala University meetup](mailto:john_coghlan@s5a.com)
  * [Write for the Gilt Tech blog](http://tech.gilt.com)
  
 * ## Make Yourself Look Good
