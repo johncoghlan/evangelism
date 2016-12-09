@@ -6,6 +6,7 @@
   * [Lanyrd](lanyrd.com)
   
 * ## Open CFPs 
+  * [PaperCall](https://www.papercall.io/cfps)
   * [CallingAllPapers](http://callingallpapers.com/)
   * [call to speakers](https://calltospeakers.com/)
   * [The CFP Report](https://thecfpreport.com/)
