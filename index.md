@@ -15,12 +15,5 @@
  * [Speaker Prep Guide](http://tech.gilt.com)
  * [Writer Prep Guide](http://tech.gilt.com)
 
-* ## Recent Wins
- * Jason Tam judged NYC’s first AI Hackathon at General Assembly. 160 AI hackers attended and the winning teams walked away with some Gilt swag as prizes.
- * Henry Colonna presented on our New Relic dashboard at their FutureStack event.
- * Kevin O’Riordan (Dublin) taught a Docker workshop at NextGen Academy in Berlin.
- * Emerson Loureiro lead a session on DevOps at an AWS Summit in London.
- * Ade Trenaman (QCon, API360), Heather Fleming (QCon) and Natalia Bartol (Dublin Swift Meetup) gave talks in June.
-
 * ## Stats
  * Stay tuned.
